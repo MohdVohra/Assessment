@@ -1,0 +1,13 @@
+com\globallogic\demo\repo\AdminRepo.class
+com\globallogic\demo\controller\BookController.class
+com\globallogic\demo\controller\UserController.class
+com\globallogic\demo\repo\UserRepo.class
+com\globallogic\demo\entity\Book.class
+com\globallogic\demo\controller\AdminController.class
+com\globallogic\demo\entity\BookCategory.class
+com\globallogic\demo\controller\BookCategoryController.class
+com\globallogic\demo\repo\BookRepo.class
+com\globallogic\demo\repo\BookCategoryRepo.class
+com\globallogic\demo\entity\User.class
+com\globallogic\demo\OnlineBookStoreApplication.class
+com\globallogic\demo\entity\Admin.class
